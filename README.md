@@ -1,23 +1,3 @@
-<<<<<<< HEAD
-# Ol�, Muito Prazer
-
-Ol�, Meu nome � Ant�nio Carlos, mas podem me chamar de Junior
-
-Tenho 29 anos, e moro em Praia Grande, Litoral de SP
-
-Na par de desenvolvimento eu tenho um conhecimento no Frontend mas eu gosto mesmo � de
-desenvolver o Backend, por isso no ultimo ano me dediquei a estudar o desenvolvimento 
-de REST APIs utilizando Spring Boot.
-Tamb�m trabalhei como designer gr�fico e por conta disso acredito ser uma pessoa criativa.
-
-
-Em rela��o a hobby, eu gosto de desenhar e cuidar da parte f�sica, devido a eu ter sido 
-atleta durante muito  tempo e de vez em quando  eu fa�o uns treinos de karat� com meu irm�o,
-
-<hr>
-
-=======
->>>>>>> e804bfcac1d8d44a71873bedc2072fadb7b3e9b0
 # Primeiro projeto para bootcamp wipro (oferecido pela Gama Academy) 
 
 **Aula 03**
@@ -28,14 +8,14 @@ GRUPO 7:
 Projeto consiste uma simples programa de carrinhos de compras que devem atender os seguintes requisitos:
 ## Requisitos
 - A nossa loja deve conter estoque;
-- Caso produto esteja indisponível deve retornar a mensagem para o cliente “Produto Indisponível”;
-- Deverá ter 3 formas de pagamento:
-- À vista (dinheiro, pix ou cartão MasterdCard) tem 20% de desconto;
-- À vista no crédito tem 10% de desconto;
+- Caso produto esteja indisponível deve retornar a mensagem para o cliente "Produto Indisponível";
+- DeverÃ¡ ter 3 formas de pagamento:
+- Á vista (dinheiro, pix ou cartÃ£o MasterdCard) tem 20% de desconto;
+- Á vista no crédito tem 10% de desconto;
 - Parcelado em até 3x não tem desconto;
-- Deve retornar a nota fiscal com o valor pago de tributos de 9% sobre a compra (Esse valor não deve ser
+- Deve retornar a nota fiscal com o valor pago de tributos de 9% sobre a compra (Esse valor nÃ£o deve ser
   somado ao total do carrinho, somente ser exibido na nota fiscal);
-- Caprichem no README lá vocês podem contar como fizeram e como foi o trabalho em equipe.
+- Caprichem no README lá¡ vocês podem contar como fizeram e como foi o trabalho em equipe.
 - O Projeto pode ser feito somente em uma classe ou da forma que a equipe achar melhor;
 - **O PROGRAMA TEM QUE RODAR NO CONSOLE.**
 <hr>
