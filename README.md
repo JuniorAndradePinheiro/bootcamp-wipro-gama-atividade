@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ol·, Muito Prazer
 
 Ol·, Meu nome È AntÙnio Carlos, mas podem me chamar de Junior
@@ -15,22 +16,28 @@ atleta durante muito  tempo e de vez em quando  eu faÁo uns treinos de karatÍ co
 
 <hr>
 
+=======
+>>>>>>> e804bfcac1d8d44a71873bedc2072fadb7b3e9b0
 # Primeiro projeto para bootcamp wipro (oferecido pela Gama Academy) 
 
 **Aula 03**
 
 GRUPO 7:
-AntÙnio Carlos, Douglas Williams Ferreira da Silva, Guilherme Felix, Larissa Pontes e Mauro Oliveira  
+[Ant√¥nio Carlos](https://github.com/JuniorAndradePinheiro), [Douglas Williams Ferreira da Silva](https://github.com/dougdasilva), [Guilherme Felix](https://github.com/felixdasilva050/), [Larissa Pontes](https://github.com/ladyweigann) e [Mauro Oliveira](https://github.com/oliveiramauro).
+
 Projeto consiste uma simples programa de carrinhos de compras que devem atender os seguintes requisitos:
+## Requisitos
 - A nossa loja deve conter estoque;
-- Caso produto esteja indisponÌvel deve retornar a mensagem para o cliente ìProduto IndisponÌvelî;
-- Dever· ter 3 formas de pagamento:
-- ¿ vista (dinheiro, pix ou cart„o MasterdCard) tem 20% de desconto;
-- ¿ vista no crÈdito tem 10% de desconto;
-- Parcelado em atÈ 3x n„o tem desconto;
-- Deve retornar a nota fiscal com o valor pago de tributos de 9% sobre a compra (Esse valor n„o deve ser
+- Caso produto esteja indispon√≠vel deve retornar a mensagem para o cliente ‚ÄúProduto Indispon√≠vel‚Äù;
+- Dever√° ter 3 formas de pagamento:
+- √Ä vista (dinheiro, pix ou cart√£o MasterdCard) tem 20% de desconto;
+- √Ä vista no cr√©dito tem 10% de desconto;
+- Parcelado em at√© 3x n√£o tem desconto;
+- Deve retornar a nota fiscal com o valor pago de tributos de 9% sobre a compra (Esse valor n√£o deve ser
   somado ao total do carrinho, somente ser exibido na nota fiscal);
-- Caprichem no README l· vocÍs podem contar como fizeram e como foi o trabalho em equipe.
+- Caprichem no README l√° voc√™s podem contar como fizeram e como foi o trabalho em equipe.
 - O Projeto pode ser feito somente em uma classe ou da forma que a equipe achar melhor;
-- **O PROGRAMA TEM QUE RODAR NO CONSOLE.** 
-ApÛs muitas conversas, nossa equipe optou por fazer o projeto em apenas uma ˙nica classe na prioridade do nivelamento dos integrantes, n„o havendo assim, distinÁıes ou dificuldades(de nÌveis e complexidade de cÛdigo) entre a equipe.
+- **O PROGRAMA TEM QUE RODAR NO CONSOLE.**
+<hr>
+
+Ap√≥s muitas conversas, nossa equipe optou por fazer o projeto em apenas uma √∫nica classe na prioridade do nivelamento dos integrantes, n√£o havendo assim, distin√ß√µes ou dificuldades(de n√≠veis e complexidade de c√≥digo) entre a equipe.
