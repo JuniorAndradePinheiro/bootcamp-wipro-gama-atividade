@@ -9,8 +9,8 @@ Projeto consiste uma simples programa de carrinhos de compras que devem atender 
 ## Requisitos
 - A nossa loja deve conter estoque;
 - Caso produto esteja indisponível deve retornar a mensagem para o cliente "Produto Indisponível";
-- DeverÃ¡ ter 3 formas de pagamento:
-- Á vista (dinheiro, pix ou cartÃ£o MasterdCard) tem 20% de desconto;
+- Deverá ter 3 formas de pagamento:
+- Á vista (dinheiro, pix ou cartão MasterdCard) tem 20% de desconto;
 - Á vista no crédito tem 10% de desconto;
 - Parcelado em até 3x não tem desconto;
 - Deve retornar a nota fiscal com o valor pago de tributos de 9% sobre a compra (Esse valor nÃ£o deve ser
