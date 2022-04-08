@@ -2,29 +2,15 @@ package FormaGeometrica;
 
 import FgInterface.FormaGeometrica;
 
-public class triangulo implements FormaGeometrica{
+public class Triangulo implements FormaGeometrica{
 	
-	private String cor;
-	double area;
-	double base = 10;
-	double altura = 3;
+	private double base = 10;
+	private double altura = 3;
 	
-	public triangulo() {
-		// TODO Auto-generated constructor stub
+	public Triangulo() {
+		
 	}
 	
-	public String getCor() {
-		return cor;
-	}
-	public void setCor(String cor) {
-		this.cor = cor;
-	}
-	public double getArea() {
-		return area;
-	}
-	public void setArea(double d) {
-		this.area = d;
-	}
 	public double getBase() {
 		return base;
 	}
@@ -40,8 +26,7 @@ public class triangulo implements FormaGeometrica{
 	
 	@Override
 	public String cor() {
-		this.setCor("Vermelho");
-		return this.getCor();
+		return "Ciano";
 	}
 	@Override
 	public String quantidadeDeLados() {
@@ -49,11 +34,8 @@ public class triangulo implements FormaGeometrica{
 	}
 	@Override
 	public double area(double a, double b) {
-		a = this.getBase();
-		b = this.getAltura();
-		
-		this.setArea((a * b) / 2);
-		return this.getArea();
+		double area = (a * b) / 2;
+		return area;
 	}
 	
 	

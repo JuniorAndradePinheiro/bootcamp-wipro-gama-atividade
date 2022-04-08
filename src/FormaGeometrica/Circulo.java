@@ -5,7 +5,7 @@ import FgInterface.FormaGeometrica;
 public class Circulo implements FormaGeometrica{
 	
 	private double raio;
-	private double pi = 3.1415;
+	private double pi = Math.PI;
 	
 	public Circulo() {
 		// TODO Auto-generated constructor stub
@@ -45,7 +45,7 @@ public class Circulo implements FormaGeometrica{
 
 	@Override
 	public double area(double a, double b) {
-		double area = (a *a) * b;
+		double area = (a * a) * b;
 		return area;
 	}
 }
